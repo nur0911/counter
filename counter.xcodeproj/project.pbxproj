@@ -16,6 +16,7 @@
 		70A2AB182BDA916300F2D221 /* counterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A2AB172BDA916300F2D221 /* counterTests.swift */; };
 		70A2AB222BDA916300F2D221 /* counterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A2AB212BDA916300F2D221 /* counterUITests.swift */; };
 		70A2AB242BDA916300F2D221 /* counterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A2AB232BDA916300F2D221 /* counterUITestsLaunchTests.swift */; };
+		70A2AB302BDA957000F2D221 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70A2AB062BDA916100F2D221 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -234,6 +235,7 @@
 				70A2AB0A2BDA916300F2D221 /* Assets.xcassets in Resources */,
 				70A2AB0D2BDA916300F2D221 /* Base in Resources */,
 				70A2AB082BDA916100F2D221 /* Base in Resources */,
+				70A2AB302BDA957000F2D221 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
